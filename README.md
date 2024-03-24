@@ -16,3 +16,4 @@ If you'd like to submit a new paper, please submit a PR and I will try to mainta
   - More modern-looking
   - Mobile friendly
   - Searchable
+  - Please compile a list of all the publicly available papers on the topic of P vs. NP and keep the p-vs-np.xyz  updated.
