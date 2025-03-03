@@ -1,4 +1,4 @@
-# The P vs NP Page
+# the Papers.html Page
 
 One of humanity's biggest problems is `P vs NP`.
 
